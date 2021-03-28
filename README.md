@@ -1,2 +1,2 @@
 # Movies-ETL-
-Transforming JSON and CSV movie data before loading into a SQL database 
+Transforming JSON and CSV movie data in Jupyter Notebook before loading into a SQL database 
